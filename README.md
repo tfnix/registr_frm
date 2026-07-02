@@ -12,5 +12,5 @@ Temas <br>
 
 <br>
 <b>
-PS: AI Assisted (Claude Code/ChatGPT) 
+PS: AI Assisted (Claude Code/ChatGPT) 😎
 </b>
